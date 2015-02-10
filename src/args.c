@@ -32,7 +32,7 @@ static struct option long_options[] =
    { "min-asm-length",    required_argument, NULL, 'n' },
    { "output",            required_argument, NULL, 'o' },
    { "p-value",           required_argument, NULL, 'p' },
-   { "quality-theshold",  required_argument, NULL, 'q' },
+   { "quality-threshold",  required_argument, NULL, 'q' },
    { "reverse-fastq",     required_argument, NULL, 'r' },
    { "score-method",      required_argument, NULL, 's' },
    { "min-trim-length",   required_argument, NULL, 't' },
